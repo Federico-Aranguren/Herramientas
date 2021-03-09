@@ -13,3 +13,5 @@ int main (int argc, char **argv)
     std::cout << "x²=" << x << std::endl;
     return 0;
 }
+
+# aaaa dios
